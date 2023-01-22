@@ -1,0 +1,16 @@
+#canvas{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+canvas{
+    margin-left: 2em;
+    border: 1px solid black;
+}
+
+main{
+    margin-top: 6em;
+}
